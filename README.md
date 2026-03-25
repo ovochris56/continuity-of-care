@@ -43,6 +43,8 @@ The dashboard also shows:
 - Track gap rate, average gap days, and post-gap utilization as operational KPIs
 - Explore whether digital literacy, portal comprehension, or language access barriers contribute to late renewal
 
+These findings highlight an opportunity for healthcare organizations to proactively manage coverage continuity as a measurable driver of patient outcomes and cost reduction.
+
 # Tools Used
 - Power BI
 - Healthcare operations analysis
