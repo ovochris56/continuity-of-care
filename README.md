@@ -51,6 +51,10 @@ These findings highlight an opportunity for healthcare organizations to proactiv
 - KPI design
 - Data storytelling
 
+# Potential Use Case
+
+This analysis can support care management teams, revenue cycle teams, and population health initiatives by identifying patients at risk of coverage lapses and enabling proactive intervention strategies.
+
 # Why This Project Matters
 
 This project sits at the intersection of healthcare analytics, access, and prevention. It reframes insurance renewal not as an administrative issue, but as a continuity-of-care problem with measurable consequences for patient severity and downstream utilization.
