@@ -30,7 +30,7 @@ The dashboard also shows:
 - Gap rates were relatively similar across Spanish, Portuguese, and English-speaking groups 
 
 # Key Insights
-	1.	Coverage gaps are common and operationally significant. Nearly 4 in 10 patients in this analysis experienced a lapse in coverage.  ￼
+	1.	Coverage gaps impact nearly 40% of patients, representing a major operational risk. ￼
 	2.	Patients with coverage gaps show higher average severity. This suggests delayed access to care may contribute to worsening condition by the time patients re-engage.  ￼
 	3.	Longer coverage gaps are associated with higher severity. The relationship shown in the dashboard suggests duration matters, not just whether a gap occurred.  ￼
 	4.	Post-gap ER utilization is notable. This points to a possible downstream consequence of disrupted access and delayed intervention.  ￼
