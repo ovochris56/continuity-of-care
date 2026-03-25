@@ -3,7 +3,7 @@ This project analyzes how delays in insurance renewal and resulting coverage gap
 
 # Business Problem
 
-When patients fail to renew insurance coverage on time, they may experience a temporary lapse in access to care. These disruptions can delay treatment, reduce follow-up adherence, and increase the likelihood that patients return in worse condition. For providers and healthcare systems, this creates avoidable clinical risk and downstream utilization.
+39.5% of patients experienced a coverage gap, with measurable increases in severity and post-gap ER utilization. When patients fail to renew insurance coverage on time, they may experience a temporary lapse in access to care. These disruptions can delay treatment, reduce follow-up adherence, and increase the likelihood that patients return in worse condition. For providers and healthcare systems, this creates avoidable clinical risk and downstream utilization.
 
 # Project Goal
 
